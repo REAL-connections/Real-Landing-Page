@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 import { Background } from "../background/Background";
 import { CenteredFooter } from "../footer/CenteredFooter";
 import { Section } from "../layout/Section";
@@ -10,7 +8,7 @@ const Footer = () => (
   <Background color="bg-gray-100">
     <Section>
       <CenteredFooter
-        logo={<Image src={Logo} width={64} height={64} />}
+        logo={<Image src={Logo} width={64} height={64} alt="logo" />}
         iconList={<></>}
       ></CenteredFooter>
     </Section>

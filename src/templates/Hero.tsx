@@ -8,7 +8,9 @@ import Image from "next/image";
 const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
-      <NavbarTwoColumns logo={<Image src={Logo} width={64} height={64} />} />
+      <NavbarTwoColumns
+        logo={<Image src={Logo} width={64} height={64} alt="logo" />}
+      />
     </Section>
 
     <Section yPadding="pt-20 pb-32">
