@@ -25,7 +25,13 @@ const Hero = () => (
         }
         description="Subscribe to our newsletter and get the latest updates about our release in late 2022."
         button={
-          <form>
+          <form
+            onSubmit={() => {
+              alert(
+                "Our mail server is currently down, please try again later."
+              );
+            }}
+          >
             <input
               type="text"
               placeholder="Email"
