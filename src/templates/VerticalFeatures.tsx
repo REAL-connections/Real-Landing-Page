@@ -3,7 +3,7 @@ import { Section } from "../layout/Section";
 
 const VerticalFeatures = () => (
   <Section
-    title="Online Dating, Reimagined"
+    title="REAL Dating Mobile App"
     description="Online dating without the FAKE. Real people. Real matches. Real dating."
   >
     <VerticalFeatureRow

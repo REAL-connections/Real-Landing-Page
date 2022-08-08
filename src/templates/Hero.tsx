@@ -23,7 +23,7 @@ const Hero = () => (
             </span>
           </>
         }
-        description="Subscribe to our newsletter and get the latest updates about our release in late 2022."
+        description="Subscribe to our newsletter and get the latest updates about our mobile app release in late 2022."
         button={
           <form
             onSubmit={() => {
