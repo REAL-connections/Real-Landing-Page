@@ -1,16 +1,14 @@
-import Link from "next/link";
-
 import { Background } from "../background/Background";
-import { Button } from "../button/Button";
 import { HeroOneButton } from "../hero/HeroOneButton";
 import { Section } from "../layout/Section";
 import { NavbarTwoColumns } from "../navigation/NavbarTwoColumns";
-import { Logo } from "./Logo";
+import Logo from "../../public/assets/images/app-face.png";
+import Image from "next/image";
 
 const Hero = () => (
   <Background color="bg-gray-100">
     <Section yPadding="py-6">
-      <NavbarTwoColumns logo={<Logo xl />} />
+      <NavbarTwoColumns logo={<Image src={Logo} width={64} height={64} />} />
     </Section>
 
     <Section yPadding="pt-20 pb-32">
@@ -18,7 +16,7 @@ const Hero = () => (
         title={
           <>
             {"REAL Dating\n"}
-            <span className="text-primary-500">
+            <span className="text-[#F9BC60]">
               Real people. Real matches. Real dating.{" "}
             </span>
           </>
@@ -34,7 +32,7 @@ const Hero = () => (
             <a>
               <button
                 type="submit"
-                className="bg-blue-500 text-white p-4 rounded-lg"
+                className="bg-[#F9BC60] text-white p-4 rounded-lg"
               >
                 Submit
               </button>
