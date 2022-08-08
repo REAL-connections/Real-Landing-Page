@@ -14,7 +14,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Active accounts"
-      description="Additionally, using our unqiue features and algorithms, we ensure that every account is active. Active accounts means more real people in your area actively looking for a real connection."
+      description="Additionally, using our unique features and algorithms, we ensure that every account is active. More active accounts means more real people in your area actively looking for a real connection."
       image="/assets/images/active.jpg"
       imageAlt="Second feature alt text"
       reverse
