@@ -12,11 +12,6 @@ export default async function subscribe(req: any, res: any) {
     return res.status(400).json({ error: "Email is required" });
   }
 
-  return res.status(200).send({
-    message:
-      "Your email has been successfully added to the mailing list. Welcome!",
-  });
-
   try {
     await mailchimp.lists.addListMember(
       process.env.MAILCHIMP_AUDIENCE_ID as string,
