@@ -6,7 +6,7 @@ mailchimp.setConfig({
 });
 
 export default async function subscribe(req: any, res: any) {
-  const { email } = req.body;
+  const email = req.body.email;
   console.log("Email: ", email);
   if (!email) {
     return res.status(400).json({ error: "Email is required" });
