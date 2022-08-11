@@ -6,7 +6,6 @@ import Logo from "../../public/assets/images/app-face.png";
 import Image from "next/image";
 import { useState } from "react";
 import axios from "axios";
-import DeviceMockup from "../hero/DeviceMockup";
 
 const Hero = () => {
   const [mail, setMail] = useState("");
