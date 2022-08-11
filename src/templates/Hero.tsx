@@ -41,16 +41,9 @@ const Hero = () => {
         />
       </Section>
 
-      <Section yPadding="pt-20 pb-32">
+      <Section yPadding="pt-2 pb-24 flex flex-row justify-around">
         <HeroOneButton
-          title={
-            <>
-              {"REAL Dating\n"}
-              <span className="text-[#F9BC60]">
-                Real people. Real matches. Real dating.{" "}
-              </span>
-            </>
-          }
+          title={<>{"REAL Dating\n"}</>}
           description="Subscribe to our newsletter and get the latest updates about our mobile app release in late 2022."
           button={
             <form
@@ -87,7 +80,7 @@ const Hero = () => {
               </a>
             </form>
           }
-        />
+        ></HeroOneButton>
       </Section>
     </Background>
   );
