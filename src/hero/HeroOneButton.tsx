@@ -8,7 +8,7 @@ type IHeroOneButtonProps = {
 };
 
 const HeroOneButton = (props: IHeroOneButtonProps) => (
-  <header className="text-center">
+  <header className="text-center overflow-x-hidden">
     <h1 className="text-5xl text-[#004643] font-bold whitespace-pre-line leading-hero">
       {props.title}
     </h1>
