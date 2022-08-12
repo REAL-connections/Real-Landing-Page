@@ -21,7 +21,7 @@ const HeroOneButton = (props: IHeroOneButtonProps) => (
 
         {props.button}
       </div>
-      <div className="w-full h-full md:ml-24 mt-12 md:mt-0">
+      <div className="w-full h-full md:ml-24 mt-12 md:mt-0 items-center">
         <DeviceMockup />
       </div>
     </div>
