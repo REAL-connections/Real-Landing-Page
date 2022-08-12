@@ -1,14 +1,20 @@
 import Image from "next/image";
 import React from "react";
+import Iframe from "react-iframe";
 
 function DeviceMockup() {
   return (
-    <Image
-      src={"/assets/images/real-app-login.png"}
-      width={256}
-      height={512}
-      alt="real-app-login"
-    />
+    <div className="w-full h-full md:ml-24 flex ml-12">
+      <video
+        src="/assets/videos/app-login.mov"
+        width="256"
+        height="512"
+        autoPlay={true}
+        loop={true}
+        playsInline={true}
+        muted={true}
+      />
+    </div>
   );
 }
 
