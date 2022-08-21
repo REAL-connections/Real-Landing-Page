@@ -15,7 +15,7 @@ const HeroOneButton = (props: IHeroOneButtonProps) => (
     <div className="flex flex-col mt-10 align-middle md:flex-row justify-between">
       <div>
         <h2 className="text-[#F9BC60] text-5xl">
-          Real people. Real matches. Real dating.{" "}
+          Real people looking for genuine relationships.
         </h2>
         <div className="text-2xl mt-4 mb-16">{props.description}</div>
 

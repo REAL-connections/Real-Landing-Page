@@ -13,17 +13,17 @@ const VerticalFeatures = () => (
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
+      title="Matching to message"
+      description="Lastly, REAL dating will naturally promote users prioritzing messaging active matches over getting new matches. This will ensure that you get the best possibility of a real connection."
+      image="/assets/images/message.jpg"
+      imageAlt="Third feature alt text"
+    />
+    <VerticalFeatureRow
       title="Active accounts"
       description="Additionally, using our unique features and algorithms, we ensure that every account is active. More active accounts means more real people in your area actively looking for a real connection."
       image="/assets/images/active.jpg"
       imageAlt="Second feature alt text"
       reverse
-    />
-    <VerticalFeatureRow
-      title="Matching to message"
-      description="Lastly, REAL dating will naturally promote users prioritzing messaging active matches over getting new matches. This will ensure that you get the best possibility of a real connection."
-      image="/assets/images/message.jpg"
-      imageAlt="Third feature alt text"
     />
   </Section>
 );
