@@ -7,212 +7,212 @@ function PrivacyPolicy({}: Props) {
     <>
       <h1>PrivacyPolicy</h1>
       <div>
-        REAL Dating Privacy Policy Welcome to the REAL Dating Privacy Policy
-        (“Policy”)! This explains how we collect, store, protect, and share your
-        information, and with whom we share it. We suggest you read this in
-        conjunction with our Terms and Conditions of Use. Whilst you’re enjoying
-        the REAL Dating mobile application (including the desktop version)
-        (“App”), our websites and microsites or using our digital products and
-        services (such as our competitions or surveys) (together, referred to in
-        this Privacy Policy as our “Sites”), we collect some information about
-        you. In addition, you may choose to use the App or Sites to share
-        information with other users, including your friends and contacts
-        (“Users”). We may also need to share your information sometimes. The App
-        and Sites are global, and your information will be sent to and used in
-        the United States and the UK regardless of the country you reside in.
-        This Policy explains how we protect your personal data when we transfer
-        it overseas, so please read very carefully! COLLECTION OF INFORMATION.
-        Registration Information When you download the App and create an account
-        (“Account”), we may collect certain information (“Registration
-        Information”) about you, such as: Name; Username; Email address; Mobile
-        number; Gender identity; Date of birth; Sexual preference; Photographs;
-        Location; and Login information for social media accounts that you
-        connect to your REAL Dating Account (this could include, for example,
-        your Facebook and Instagram accounts). For more information about this,
-        see “Linking other Accounts to REAL Dating” in section 7 below. Once you
-        register, you will be able to review and change this information at any
-        time just by logging in to REAL Dating (other than your date of birth
-        and location (which, if you have given REAL Dating access to your
-        location in your device settings, is automatically updated based on the
-        location of your device)). It is your responsibility to ensure that your
-        account details are kept up to date. If your phone number changes,
-        please ensure that you update this in your account. The information we
-        collect helps to enhance the App and verify our Users (robots are not
-        welcome!). Registration Information such as your sexual preference, name
-        and username may be visible to other Users who view your profile page.
-        For Users who are California residents, the data we may collect falls
-        within the following categories of “personal information”, as defined by
-        the California Consumer Privacy Act (CCPA): A. Identifiers, such as name
-        and location; B. Personal information, as defined in the California
-        customer records law, such as contact (including email and telephone
-        number) and financial information; C. Characteristics of protected
-        classifications under California or federal law (if you choose to
-        provide them), such as age, gender identity, marital status, sexual
-        orientation, race, ancestry, national origin, religion, and medical
-        conditions; D. Commercial information, such as transaction information
-        and purchase history; E. Biometric information; F. Internet or network
-        activity information, such as browsing history and interactions with our
-        Sites and App; G. Geolocation data, such as mobile device location; H.
-        Audio, electronic, visual and similar information, such as photos and
-        videos; I. Professional or employment-related information, such as work
-        history and prior employer; J. Non-public education information; and K.
-        Inferences drawn from any of the personal information listed above to
-        create a profile or summary about, for example, an individual’s
-        preferences and characteristics. Profile Information We recommend and
-        encourage you (and all our members) to think carefully about the
-        information you disclose about yourself. We also do not recommend that
-        you put email addresses, URLs, instant messaging details, phone numbers,
-        full names or addresses, credit card details, national identity numbers,
-        drivers’ licence details and other sensitive information which is open
-        to abuse and misuse on your profile. When you post information about
-        yourself or use the messaging function to communicate with other Users,
-        the amount of personal information you share is at your own risk. Please
-        see Section 4 below for more information on who can access what you post
-        on REAL Dating. Profile Verification Information (Including Biometric
-        Information) For safety and security and to ensure you have the best
-        possible user experience, we require Users to verify their accounts and
-        might ask for your phone number and, in some instances, we might also
-        ask that you carry out photo verification. Purchases Information If you
-        decide to purchase any of our premium services, we will process your
-        payment information and retain this securely for the prevention of fraud
-        and for audit/tax purposes. REAL Dating uses automated decisions to
-        prevent fraudulent payment transactions being processed as part of its
-        anti-fraud procedures. In order to do this, our systems check payment
-        transactions for behaviour that indicates breaches of our Terms and
-        Conditions of Use. If a transaction meets certain criteria that
-        demonstrate that the Terms and Conditions of Use are likely to have been
-        breached and the transaction is likely to be fraudulent, the relevant
-        transaction may automatically be blocked. Where a transaction is
-        blocked, the user will be notified that their transaction cannot be
-        processed and affected Users can contact REAL Dating to contest the
-        decision. Geolocation Information If you have given REAL Dating access
-        to your location in your device settings, when you use your mobile, we
-        will collect information about WiFi access points as well as other
-        location information about your longitude and latitude and may save your
-        device’s coordinates to offer certain features to you. This information
-        helps us identify your physical location and we use it to personalise
-        the App and make it easier for you to interact with other Users, by
-        enabling the general locality information to be displayed to Users
-        seeing your profile and showing you the profiles of other Users who are
-        near you. If you have given REAL Dating access to your location, but
-        wish to turn this off, you can do so by the following methods: iPhone
-        app — settings, privacy, location services, REAL Dating Android —
-        settings, location, REAL Dating, permissions, location Device
-        Information We may collect information about your device when you use
-        the App including the unique device identifier, device model, and
-        operating system, for a number of purposes, as set out in this policy.
-        In addition, if you permit us to do so, the App may access your device’s
-        address book solely in order to add someone to your contacts. Links We
-        may keep track of how you interact with links available on REAL Dating
-        including third party services by redirecting clicks or through other
-        means. We may share aggregate click statistics such as how many times a
-        particular link was clicked on. REAL Dating Success Stories, Surveys and
-        other Contributions From time to time, we run surveys for research
-        purposes and we may contact you to find out if you would like to take
-        part. We may also contact you to find out if you would like to provide
-        feedback, a testimonial or take part in marketing campaigns (for
-        example, if you let us know that you have found a match on the App, we
-        may contact you to ask if you would be happy to feature in advertising
-        for REAL Dating). Such surveys and marketing campaigns are optional and
-        more information will be provided at the point of contact. If you do not
-        wish to be contacted to take part in a survey or marketing campaign,
-        please contact our Customer Support Team via our Feedback Page. When you
-        Contact Customer Support If you contact our Customer Support team via
-        our Feedback Page, we will receive your email address, and may track
-        your IP address, as well as the information you send to us to help
-        resolve your query. We will keep records of our communications with you,
-        including any complaints that we receive from you about other Users (and
-        from other Users about you) for 6 years after deletion of your account.
-        Cookies and similar technologies When you visit our Sites or when you
-        use our App, we may collect personal data from you automatically by
-        using cookies or similar technologies. A cookie is a small file that can
-        be placed on your device or browser that allows us to recognise and
-        remember you. If you would like to find out more about cookies,
-        including how we use them and what choices are available to you, please
-        refer to our Cookie Policy. 2. USE OF YOUR INFORMATION. Our main goal is
-        to ensure your experience on REAL Dating is an enjoyable one and you
-        don’t end up getting stung! In order to deliver an enjoyable experience
-        to you, we may use your Registration and other information to: offer you
-        our services and features; contact you with information about the App
-        (e.g., updates and new features); personalise the App/Sites and the
-        content we deliver to you; conduct research and analytics about how you
-        use and interact with the App/Sites; resolve disputes, troubleshoot
-        problems and to enforce our Terms & Conditions; investigate fraud,
-        protect our legal rights, and to enforce our Terms & Conditions. to send
-        you information about the promotions and offers we have available - if
-        you’ve signed up for our communications or otherwise told us it’s OK
-        (you can withdraw from marketing at any time via Settings in the App or
-        by using the opt-out mechanisms and links provided in each message); and
-        protect our Users and third parties from harm. Moderation Practices We
-        use a combination of automated systems and a team of moderators to
-        monitor and review accounts (including photos and any other information
-        uploaded onto user profiles) and messages for content that indicates
-        breaches of our Terms and Conditions of Use. If an account or message
-        meets certain criteria that demonstrate that the Terms and Conditions of
-        Use are likely to have been breached, the relevant account will be
-        subject to a warning and the user’s access restricted and/or blocked.
-        Affected Users can contact REAL Dating to contest the decision. If you
-        post anything that is inconsistent with our Terms and Conditions of Use,
-        we reserve the right to terminate or restrict access to your Account.
-        Lawful Basis Under EU and UK data protection laws, we are required to
-        tell you our lawful basis for using your data and we have set this out
-        in the table below. Where the legal basis is consent, you can withdraw
-        consent at any time. Where the legal basis is legitimate interests, you
-        have a right to object to our use of your data. We explain in the
-        relevant sections in this Policy how you can withdraw consent or opt-out
-        of certain data uses (where applicable). Purpose for which data is used
-        Data Source Legal basis To provide you with the REAL Dating social
-        networking service Name, email address, date of birth, location (CCPA
-        Categories A and B) You provide your name, email address and date of
-        birth to us. We obtain location data from the device that you use to
-        access the service Contractual necessity To facilitate networking
-        opportunities on the REAL Dating App Optional information that you
-        choose to provide in your profile, including through profile
-        verification, or adding REAL Dating badges, which may include
-        information about your sexual preferences, non-binary gender, religion,
-        ethnic background, photos, interests, etc. (CCPA Categories B, C, H, I,
-        J) You provide this information to us Contractual necessity and our
-        legitimate interests – it is in our legitimate interests to facilitate
-        networking opportunities in the REAL Dating app. For special
-        category/sensitive personal data, we rely on your explicit consent. To
-        verify your identity and prevent fraud and to ensure the safety and
-        security of Users Phone number and if requested or permitted, photo
-        provided as part of profile verification and for users based in
-        countries where age verification is required by law: photo of Government
-        ID + geolocation and device information (CCPA Categories A, B, C, E, F,
-        G and H) You provide this information to us, except for the geolocation
-        and device information, which we obtain from the device that you use to
-        access the service Legitimate interests – it is in our legitimate
-        interests to ensure that accounts are not set up fraudulently and to
-        safeguard Users of the site To take payment for premium services (not
-        applicable for Users making payments via the Apple App Store) Payment
-        card details (CCPA Categories B and D) You provide this information to
-        us Contractual necessity To send you marketing information about our
-        events, offers and services Name, email address, postal address,
-        Instagram handle and mobile phone number (CCPA Categories A and B) You
-        provide this information to us Consent or legitimate interests and in
-        accordance with the laws applying to our marketing activities. We have a
-        legitimate interest in promoting our business and products To carry out
-        research and analysis to help us improve the App Log and usage data,
-        including IP address, browser type, referring domain, pages accessed,
-        mobile carrier and search terms, images and video (CCPA Categories F and
-        H) You provide photos and videos to us. We obtain the log and usage
-        information from the device that you use to access the service
-        Legitimate interests – it is in our interests to analyse the way in
-        which Users are accessing and using our services so that we can further
-        develop the App, implement security measures and improve the service To
-        respond to correspondence and queries that you submit to us, including
-        social media queries Email address and IP address, social media name,
-        phone number (CCPA Categories B and F) You provide your email address,
-        social media name and phone number to us when you contact us and we
-        obtain your IP address from the device that you use to contact us
-        Legitimate interests – it is in our legitimate interests to respond to
-        your queries to ensure that we provide a good service to Users and
-        troubleshoot problems To investigate and block Users for reported
-        infringements of our Terms and Conditions of Use Name and user
-        registration details, profile information, content of messages and
-        photographs + usage and device data such as IP address and IP session
-        information (CCPA Categories A, B, C, F, and H) You provide your
+        REAL Dating Privacy Policy!{"\n"} Welcome to the REAL Dating Privacy
+        Policy (“Policy”)! This explains how we collect, store, protect, and
+        share your information, and with whom we share it. We suggest you read
+        this in conjunction with our Terms and Conditions of Use. Whilst you’re
+        enjoying the REAL Dating mobile application (including the desktop
+        version) (“App”), our websites and microsites or using our digital
+        products and services (such as our competitions or surveys) (together,
+        referred to in this Privacy Policy as our “Sites”), we collect some
+        information about you. In addition, you may choose to use the App or
+        Sites to share information with other users, including your friends and
+        contacts (“Users”). We may also need to share your information
+        sometimes. The App and Sites are global, and your information will be
+        sent to and used in the United States and the UK regardless of the
+        country you reside in. This Policy explains how we protect your personal
+        data when we transfer it overseas, so please read very carefully!
+        COLLECTION OF INFORMATION. Registration Information When you download
+        the App and create an account (“Account”), we may collect certain
+        information (“Registration Information”) about you, such as: Name;
+        Username; Email address; Mobile number; Gender identity; Date of birth;
+        Sexual preference; Photographs; Location; and Login information for
+        social media accounts that you connect to your REAL Dating Account (this
+        could include, for example, your Facebook and Instagram accounts). For
+        more information about this, see “Linking other Accounts to REAL Dating”
+        in section 7 below. Once you register, you will be able to review and
+        change this information at any time just by logging in to REAL Dating
+        (other than your date of birth and location (which, if you have given
+        REAL Dating access to your location in your device settings, is
+        automatically updated based on the location of your device)). It is your
+        responsibility to ensure that your account details are kept up to date.
+        If your phone number changes, please ensure that you update this in your
+        account. The information we collect helps to enhance the App and verify
+        our Users (robots are not welcome!). Registration Information such as
+        your sexual preference, name and username may be visible to other Users
+        who view your profile page. For Users who are California residents, the
+        data we may collect falls within the following categories of “personal
+        information”, as defined by the California Consumer Privacy Act (CCPA):
+        A. Identifiers, such as name and location; B. Personal information, as
+        defined in the California customer records law, such as contact
+        (including email and telephone number) and financial information; C.
+        Characteristics of protected classifications under California or federal
+        law (if you choose to provide them), such as age, gender identity,
+        marital status, sexual orientation, race, ancestry, national origin,
+        religion, and medical conditions; D. Commercial information, such as
+        transaction information and purchase history; E. Biometric information;
+        F. Internet or network activity information, such as browsing history
+        and interactions with our Sites and App; G. Geolocation data, such as
+        mobile device location; H. Audio, electronic, visual and similar
+        information, such as photos and videos; I. Professional or
+        employment-related information, such as work history and prior employer;
+        J. Non-public education information; and K. Inferences drawn from any of
+        the personal information listed above to create a profile or summary
+        about, for example, an individual’s preferences and characteristics.
+        Profile Information We recommend and encourage you (and all our members)
+        to think carefully about the information you disclose about yourself. We
+        also do not recommend that you put email addresses, URLs, instant
+        messaging details, phone numbers, full names or addresses, credit card
+        details, national identity numbers, drivers’ licence details and other
+        sensitive information which is open to abuse and misuse on your profile.
+        When you post information about yourself or use the messaging function
+        to communicate with other Users, the amount of personal information you
+        share is at your own risk. Please see Section 4 below for more
+        information on who can access what you post on REAL Dating. Profile
+        Verification Information (Including Biometric Information) For safety
+        and security and to ensure you have the best possible user experience,
+        we require Users to verify their accounts and might ask for your phone
+        number and, in some instances, we might also ask that you carry out
+        photo verification. Purchases Information If you decide to purchase any
+        of our premium services, we will process your payment information and
+        retain this securely for the prevention of fraud and for audit/tax
+        purposes. REAL Dating uses automated decisions to prevent fraudulent
+        payment transactions being processed as part of its anti-fraud
+        procedures. In order to do this, our systems check payment transactions
+        for behaviour that indicates breaches of our Terms and Conditions of
+        Use. If a transaction meets certain criteria that demonstrate that the
+        Terms and Conditions of Use are likely to have been breached and the
+        transaction is likely to be fraudulent, the relevant transaction may
+        automatically be blocked. Where a transaction is blocked, the user will
+        be notified that their transaction cannot be processed and affected
+        Users can contact REAL Dating to contest the decision. Geolocation
+        Information If you have given REAL Dating access to your location in
+        your device settings, when you use your mobile, we will collect
+        information about WiFi access points as well as other location
+        information about your longitude and latitude and may save your device’s
+        coordinates to offer certain features to you. This information helps us
+        identify your physical location and we use it to personalise the App and
+        make it easier for you to interact with other Users, by enabling the
+        general locality information to be displayed to Users seeing your
+        profile and showing you the profiles of other Users who are near you. If
+        you have given REAL Dating access to your location, but wish to turn
+        this off, you can do so by the following methods: iPhone app — settings,
+        privacy, location services, REAL Dating Android — settings, location,
+        REAL Dating, permissions, location Device Information We may collect
+        information about your device when you use the App including the unique
+        device identifier, device model, and operating system, for a number of
+        purposes, as set out in this policy. In addition, if you permit us to do
+        so, the App may access your device’s address book solely in order to add
+        someone to your contacts. Links We may keep track of how you interact
+        with links available on REAL Dating including third party services by
+        redirecting clicks or through other means. We may share aggregate click
+        statistics such as how many times a particular link was clicked on. REAL
+        Dating Success Stories, Surveys and other Contributions From time to
+        time, we run surveys for research purposes and we may contact you to
+        find out if you would like to take part. We may also contact you to find
+        out if you would like to provide feedback, a testimonial or take part in
+        marketing campaigns (for example, if you let us know that you have found
+        a match on the App, we may contact you to ask if you would be happy to
+        feature in advertising for REAL Dating). Such surveys and marketing
+        campaigns are optional and more information will be provided at the
+        point of contact. If you do not wish to be contacted to take part in a
+        survey or marketing campaign, please contact our Customer Support Team
+        via our Feedback Page. When you Contact Customer Support If you contact
+        our Customer Support team via our Feedback Page, we will receive your
+        email address, and may track your IP address, as well as the information
+        you send to us to help resolve your query. We will keep records of our
+        communications with you, including any complaints that we receive from
+        you about other Users (and from other Users about you) for 6 years after
+        deletion of your account. Cookies and similar technologies When you
+        visit our Sites or when you use our App, we may collect personal data
+        from you automatically by using cookies or similar technologies. A
+        cookie is a small file that can be placed on your device or browser that
+        allows us to recognise and remember you. If you would like to find out
+        more about cookies, including how we use them and what choices are
+        available to you, please refer to our Cookie Policy. 2. USE OF YOUR
+        INFORMATION. Our main goal is to ensure your experience on REAL Dating
+        is an enjoyable one and you don’t end up getting stung! In order to
+        deliver an enjoyable experience to you, we may use your Registration and
+        other information to: offer you our services and features; contact you
+        with information about the App (e.g., updates and new features);
+        personalise the App/Sites and the content we deliver to you; conduct
+        research and analytics about how you use and interact with the
+        App/Sites; resolve disputes, troubleshoot problems and to enforce our
+        Terms & Conditions; investigate fraud, protect our legal rights, and to
+        enforce our Terms & Conditions. to send you information about the
+        promotions and offers we have available - if you’ve signed up for our
+        communications or otherwise told us it’s OK (you can withdraw from
+        marketing at any time via Settings in the App or by using the opt-out
+        mechanisms and links provided in each message); and protect our Users
+        and third parties from harm. Moderation Practices We use a combination
+        of automated systems and a team of moderators to monitor and review
+        accounts (including photos and any other information uploaded onto user
+        profiles) and messages for content that indicates breaches of our Terms
+        and Conditions of Use. If an account or message meets certain criteria
+        that demonstrate that the Terms and Conditions of Use are likely to have
+        been breached, the relevant account will be subject to a warning and the
+        user’s access restricted and/or blocked. Affected Users can contact REAL
+        Dating to contest the decision. If you post anything that is
+        inconsistent with our Terms and Conditions of Use, we reserve the right
+        to terminate or restrict access to your Account. Lawful Basis Under EU
+        and UK data protection laws, we are required to tell you our lawful
+        basis for using your data and we have set this out in the table below.
+        Where the legal basis is consent, you can withdraw consent at any time.
+        Where the legal basis is legitimate interests, you have a right to
+        object to our use of your data. We explain in the relevant sections in
+        this Policy how you can withdraw consent or opt-out of certain data uses
+        (where applicable). Purpose for which data is used Data Source Legal
+        basis To provide you with the REAL Dating social networking service
+        Name, email address, date of birth, location (CCPA Categories A and B)
+        You provide your name, email address and date of birth to us. We obtain
+        location data from the device that you use to access the service
+        Contractual necessity To facilitate networking opportunities on the REAL
+        Dating App Optional information that you choose to provide in your
+        profile, including through profile verification, or adding REAL Dating
+        badges, which may include information about your sexual preferences,
+        non-binary gender, religion, ethnic background, photos, interests, etc.
+        (CCPA Categories B, C, H, I, J) You provide this information to us
+        Contractual necessity and our legitimate interests – it is in our
+        legitimate interests to facilitate networking opportunities in the REAL
+        Dating app. For special category/sensitive personal data, we rely on
+        your explicit consent. To verify your identity and prevent fraud and to
+        ensure the safety and security of Users Phone number and if requested or
+        permitted, photo provided as part of profile verification and for users
+        based in countries where age verification is required by law: photo of
+        Government ID + geolocation and device information (CCPA Categories A,
+        B, C, E, F, G and H) You provide this information to us, except for the
+        geolocation and device information, which we obtain from the device that
+        you use to access the service Legitimate interests – it is in our
+        legitimate interests to ensure that accounts are not set up fraudulently
+        and to safeguard Users of the site To take payment for premium services
+        (not applicable for Users making payments via the Apple App Store)
+        Payment card details (CCPA Categories B and D) You provide this
+        information to us Contractual necessity To send you marketing
+        information about our events, offers and services Name, email address,
+        postal address, Instagram handle and mobile phone number (CCPA
+        Categories A and B) You provide this information to us Consent or
+        legitimate interests and in accordance with the laws applying to our
+        marketing activities. We have a legitimate interest in promoting our
+        business and products To carry out research and analysis to help us
+        improve the App Log and usage data, including IP address, browser type,
+        referring domain, pages accessed, mobile carrier and search terms,
+        images and video (CCPA Categories F and H) You provide photos and videos
+        to us. We obtain the log and usage information from the device that you
+        use to access the service Legitimate interests – it is in our interests
+        to analyse the way in which Users are accessing and using our services
+        so that we can further develop the App, implement security measures and
+        improve the service To respond to correspondence and queries that you
+        submit to us, including social media queries Email address and IP
+        address, social media name, phone number (CCPA Categories B and F) You
+        provide your email address, social media name and phone number to us
+        when you contact us and we obtain your IP address from the device that
+        you use to contact us Legitimate interests – it is in our legitimate
+        interests to respond to your queries to ensure that we provide a good
+        service to Users and troubleshoot problems To investigate and block
+        Users for reported infringements of our Terms and Conditions of Use Name
+        and user registration details, profile information, content of messages
+        and photographs + usage and device data such as IP address and IP
+        session information (CCPA Categories A, B, C, F, and H) You provide your
         registration details, profile information, messages and photographs to
         us. We obtain the other information from the device that you use to
         access the service. Legitimate interests - it is in our legitimate
